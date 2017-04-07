@@ -1,2 +1,1 @@
-# FirstCode
-this is &lt;First Code> demo practice
+这个项目是来自郭霖<第一行代码>第二版中关于操作数据库的开源项目Litepal的使用.
